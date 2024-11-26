@@ -16,6 +16,7 @@
 
 * [Authentication](topics/authentication.md)
 * [Validation](topics/validation.md)
+* [Sockets](topics/sockets.md)
 * [Errors](topics/errors/README.md)
   * [Cannot start Novel](topics/errors/cannot-start-novel.md)
   * [Unauthorized](topics/errors/unauthorized.md)
