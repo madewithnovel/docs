@@ -38,6 +38,7 @@
 * [Database](novel-server/database.md)
 * [Caching](novel-server/caching.md)
 * [Migrations](novel-server/migrations.md)
+* [Sessions](novel-server/sessions.md)
 * [Users](novel-server/users.md)
 * [Groups](novel-server/groups.md)
 * [Authentication](novel-server/authentication/README.md)
