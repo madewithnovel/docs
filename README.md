@@ -34,7 +34,7 @@ Get up and running by running the code in your terminal
 curl -fsSL https://novel.dev/install.sh | bash
 ```
 
-Head over to [Getting Started](getting-started.md) to start your journey.
+Head over to [Getting Started](start.md) to start your journey.
 
 ### Work on something
 

@@ -80,5 +80,5 @@ novel dev
 
 ## Next Steps
 
-Head on over to [getting-started.md](getting-started.md "mention") and build your new SaaS. Good Luck!
+Head on over to [start.md](start.md "mention") and build your new SaaS. Good Luck!
 

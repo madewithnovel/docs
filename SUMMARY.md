@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
+* [Start](start.md)
 * [Installation](installation.md)
 * [Project Structure](project-structure.md)
 * [License](license.md)
