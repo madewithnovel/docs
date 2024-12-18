@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Start](start.md)
+* [Speedrun](speedrun.md)
 * [Installation](installation.md)
 * [Project Structure](project-structure.md)
 * [License](license.md)

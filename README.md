@@ -22,11 +22,11 @@ Novel was built to scratch an itch on our experience of building and re-building
 
 The product suite includes:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><h3>Novel Server</h3></td><td>API Server</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td><h3>Novel Web</h3></td><td>Next.js UI</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><p></p><h3>Novel Manager</h3></td><td>Admin Dashboard</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td><h3>Novel Native</h3></td><td>Mobile App. Coming Soon!</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><h3>Novel Server</h3></td><td>API Server</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td><h3>Novel Web</h3></td><td>Next.js UI</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><p></p><h3>Novel Studio</h3></td><td>Admin Dashboard</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td><h3>Novel Native</h3></td><td>Mobile App. <em>Coming Soon!</em></td><td></td></tr></tbody></table>
 
 ***
 
-The documentation is categorized based on the layers that you will be interacting with and what is available to you. If you have purchased a standard license, all products should be available to you.
+The documentation is split based on the layers that you will be interacting with as you develop. If you have purchased a standard license, all products should be available to you.
 
 Get up and running by running the code in your terminal
 
@@ -40,7 +40,7 @@ Head over to [Getting Started](start.md) to start your journey.
 
 #### Working with the API
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How do I create a new endpoint?</td><td></td><td></td><td><a href="guides/create-a-rest-endpoint.md">create-a-rest-endpoint.md</a></td></tr><tr><td>How do I secure endpoints?</td><td></td><td></td><td></td></tr><tr><td>How can I write my own middleware?</td><td></td><td></td><td></td></tr><tr><td>How do I fan out work to workers or batch jobs?</td><td></td><td></td><td></td></tr><tr><td>How can I set up a scheduled cron job?</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How do I create a new endpoint?</td><td></td><td></td><td><a href="guides/create-a-rest-endpoint.md">create-a-rest-endpoint.md</a></td></tr><tr><td>How do I secure endpoints?</td><td></td><td></td><td></td></tr><tr><td>How can I write my own middleware?</td><td></td><td></td><td></td></tr><tr><td>How do I use background jobs?</td><td></td><td></td><td></td></tr><tr><td>How can I set up a scheduled cron job?</td><td></td><td></td><td></td></tr><tr><td>How can I create </td><td></td><td></td><td></td></tr></tbody></table>
 
 Working with Data
 
@@ -64,5 +64,5 @@ Please abide by our [Code of Conduct](code-of-conduct.md) and [Terms of Use](ter
 
 ### Support
 
-If you require support and training on this software. Send us a message at support@madewithnovel.com and we will get back to you within 2 business days.
+If you require support and training on this software. Send us a message at hello@novel.dev and we will get back to you within 2 business days.
 
