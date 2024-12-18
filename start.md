@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
-# Getting Started
+# Start
 
 {% hint style="info" %}
 This page discusses the express installation method of Novel. There are other installation methods available discussed in the [Installation](installation.md) page.

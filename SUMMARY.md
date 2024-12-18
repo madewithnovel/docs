@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Start](start.md)
-* [Speedrun](speedrun.md)
+* [SaaS Speedrun](saas-speedrun.md)
 * [Installation](installation.md)
 * [Project Structure](project-structure.md)
 * [License](license.md)
@@ -94,6 +94,11 @@
 * [Testing](novel-web/testing.md)
 * [Deployment](novel-web/deployment.md)
 
+## Novel Studio
+
+* [Getting Started](novel-studio/getting-started.md)
+* [Setting up](novel-studio/setting-up.md)
+
 ## Guides
 
 * [SaaS in a Day](guides/saas-in-a-day.md)
@@ -103,7 +108,9 @@
 * [Setting up Postmark](guides/setting-up-postmark.md)
 * [Setting up Stripe](guides/setting-up-stripe.md)
 * [Integrating with Cloud SQL](guides/integrating-with-cloud-sql.md)
-* [Create a REST Endpoint](guides/create-a-rest-endpoint.md)
+* [Knowledge Base](guides/knowledge-base/README.md)
+  * [Define Pricing for Subscriptions](guides/knowledge-base/define-pricing-for-subscriptions.md)
+  * [Create a REST Endpoint](guides/knowledge-base/create-a-rest-endpoint.md)
 
 ## Deployments
 
